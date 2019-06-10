@@ -61,7 +61,6 @@ typings/
 # lerna changelog cachedir
 .changelog
 
-**/build
 /*.js
 allure-reporter.d.ts
 webdriver.d.ts
